@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiagopchaves
 - 👀 I’m interested in JavaScript/NodeJS, html/css, SQL
-- 🌱 I’m currently learning Git
+- 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tiagopchaves@gmail.com
 
